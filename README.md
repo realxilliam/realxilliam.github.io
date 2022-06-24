@@ -1,4 +1,4 @@
 # xilliam.github.io
-My webpage with some games for GAMERS
+My webpage with some games for WEB DEVS
 
 # Coming...
